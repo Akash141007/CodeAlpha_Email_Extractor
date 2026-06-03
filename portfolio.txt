@@ -1,0 +1,8 @@
+Stock Portfolio Summary
+=======================
+MSFT: 3 shares × $420 = $1260
+TSLA: 250 shares × $250 = $62500
+GOOGL: 140 shares × $140 = $19600
+AMZN: 190 shares × $190 = $36100
+
+Total Investment Value = $119460
